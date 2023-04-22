@@ -44,8 +44,6 @@ function onClickGallery(event) {
 };
 
 
-
-
 ////////Number 2--------
 ///////////////Create a markup HTML//////////////
 // const galleryEl = document.querySelector(".gallery");
